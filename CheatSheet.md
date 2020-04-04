@@ -22,7 +22,7 @@ Usage:
 | fetch | Fetch a URL using the Scrapy downloader |
 
 |  Project-Only Commands | |
-|---|---| |
+|---|---|
 | crawl  | |
 | check |  |
 | list  | |
