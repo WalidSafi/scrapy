@@ -13,4 +13,5 @@ class Command(ScrapyCommand):
         return "Print Scrapy Cheat Sheet for quick commands"
 
     def long_desc(self):
+        return "Long desc of Cheat Sheet"
         
