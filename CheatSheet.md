@@ -14,12 +14,12 @@ Usage:
 |---|---| |
 | genspider  | Create a spider |
 | runspider | Run a self-contained spider (without creating a project)|
-| settings  | |
+| settings | |
 | shell |  Interactive scraping console |
-| startproject   | Create new project |
-| version  | Print Scrapy version |
-| view  | Open URL in browser, as seen by Scrapy |
-| fetch  | Fetch a URL using the Scrapy downloader |
+| startproject | Create new project |
+| version | Print Scrapy version |
+| view | Open URL in browser, as seen by Scrapy |
+| fetch | Fetch a URL using the Scrapy downloader |
 
 |  Project-Only Commands | |
 |---|---| |
