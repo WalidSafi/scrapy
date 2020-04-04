@@ -2,13 +2,13 @@
 # How to use the scrapy Tool
 
 ## Create Scrapy Projects:
-  scrapy startproject <Project Name>
+  scrapy startproject Project_Name
 
 ## Create Spider:
-  scrapy genspider <Name of Spider>  <URL>
+  scrapy genspider Name_of_Spider  URL
   
 # Usage:
-  scrapy <command> [options] [args]
+  scrapy command options args
 
 |  Global Commands | |
 |---|---|
