@@ -11,7 +11,7 @@ Usage:
   scrapy <command> [options] [args]
 
 |  Global Commands | |
-|---|---| |
+|---|---|
 | genspider  | Create a spider |
 | runspider | Run a self-contained spider (without creating a project)|
 | settings | |
