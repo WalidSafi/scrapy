@@ -30,7 +30,7 @@
 | parse  | called to handle each of the requests for URLs |
 | bench | Run quick benchmark test, RUN: Scrapy bench|
 
-# More Detialed options
+# More Detailed options
 
 |  Commands | Options |
 |---|---|
